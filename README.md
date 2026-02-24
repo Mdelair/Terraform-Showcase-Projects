@@ -38,6 +38,11 @@ Shows how Terraform works with AWS providers.
 
 ---
 
+### ***4. Azure Resource Group Deployment with Terraform & GitHub Actions**
+This project demonstrates how to deploy an Azure Resource Group using Terraform, with CI/CD automation provided by GitHub Actions.
+
+---
+
 ##  How to run any project
 
 Open terminal in the folder.
